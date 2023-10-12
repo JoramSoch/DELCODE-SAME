@@ -1,0 +1,9 @@
+% DELCODE-SAME, Figure "fMRI activations"
+% _
+% original paper: Soch*, Richter* et al., HBM, 2022
+% Figure 2: Age-related differences in the human memory network
+% 
+% DELCODE paper: Soch et al., medRxiv, 2023
+% Figure 1: Diagnosis-related activation differences in the human memory network
+
+% This figure is not included in this repository, as complete fMRI data were not publicly shared.
