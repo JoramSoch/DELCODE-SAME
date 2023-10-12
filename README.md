@@ -4,7 +4,7 @@
 
 This code belongs to the paper "Single-value fMRI scores reflect both stage and risk across the Alzheimer's disease continuum" by Soch et al. (2021), currently under review at *Brain* and publicly available from *medRxiv*. For instructions how to process these data, see below.
 
-- Preprint: TBA
+- Preprint: https://www.medrxiv.org/content/10.1101/2023.10.11.23296891
 - data and code: https://github.com/JoramSoch/DELCODE_SAME
 - original study: https://github.com/JoramSoch/FADE_SAME
 
