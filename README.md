@@ -45,7 +45,7 @@ For re-running analyses reported in the paper, you need to perform the following
 
 * For creating Figure S3 (`Figure_FADE_SAME_stability.m`), you need to either have the [MACS toolbox](https://github.com/JoramSoch/MACS) on your MATLAB path or download the [ME_GLM function](https://github.com/JoramSoch/MACS/blob/master/ME_GLM.m) into the tools sub-folder.
 
-**Note:** This public data share only includes the variables site, gender and diagnosis (see `subjects/subj_covs.mat`). This means that all scripts other than `Figure_FADE_SAME.m` and `Table_FADE_SAME_sgd.m` will fail due to missing covariates. These will be made available upon request, please contact the [owner of the repository](mailto:joram.soch@bccn-berlin.de).
+**Note:** This public data share only includes the variables site, gender and diagnosis (see `subjects/subj_covs.mat`). This means that all scripts other than `Figure_FADE_SAME|_gender|_stability.m` and `Table_FADE_SAME_sgd|_dc.m` will fail due to missing covariates. These will be made available upon request, please contact the [owner of the repository](mailto:joram.soch@bccn-berlin.de).
 
 
 ### Graphical Abstract
